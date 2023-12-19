@@ -9,7 +9,7 @@ This a demo bookstore web API in which we can create user, search user, delete u
 ## How to run this project:
 - clone this project
 ``` https://github.com/mashruf/Book-Store-Web-API ```
-- In the source root project, give the following command
+- In the source root project, give the following command:
 ``` npm i ```
-- Give the following command to run
+- Give the following command to run:
 ``` node report.js ```
