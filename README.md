@@ -13,3 +13,5 @@ This a demo bookstore web API in which we can create user, search user, delete u
 ``` npm i ```
 - Give the following command to run:
 ``` node report.js ```
+
+![report1](https://github.com/mashruf/Book-Store-Web-API/assets/50927464/20eaa295-9dd6-43f0-a1c8-865a5a70d14b)
