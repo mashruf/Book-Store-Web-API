@@ -1,0 +1,4 @@
+node_modules
+Reports
+.env
+package-lock.json
