@@ -1,0 +1,18 @@
+{
+  "name": "book_store_api_collection",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "newman run ./Book_Store_Web_API.json",
+    "report": "newman run ./Book_Store_Web_API.json -r htmlextra --reporter-htmlextra-export ./Reports/report.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "newman": "^6.2.1",
+    "newman-reporter-htmlextra": "^1.23.1"
+  }
+}
